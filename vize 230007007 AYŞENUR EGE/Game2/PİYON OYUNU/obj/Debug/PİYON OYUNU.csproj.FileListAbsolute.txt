@@ -1,0 +1,44 @@
+C:\Users\MONSTER\source\repos\PİYON OYUNU\PİYON OYUNU\bin\Debug\PİYON OYUNU.exe.config
+C:\Users\MONSTER\source\repos\PİYON OYUNU\PİYON OYUNU\bin\Debug\PİYON OYUNU.exe
+C:\Users\MONSTER\source\repos\PİYON OYUNU\PİYON OYUNU\bin\Debug\PİYON OYUNU.pdb
+C:\Users\MONSTER\source\repos\PİYON OYUNU\PİYON OYUNU\obj\Debug\PİYON OYUNU.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\PİYON OYUNU\PİYON OYUNU\obj\Debug\PİYON_OYUNU.zar.resources
+C:\Users\MONSTER\source\repos\PİYON OYUNU\PİYON OYUNU\obj\Debug\PİYON_OYUNU.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\PİYON OYUNU\PİYON OYUNU\obj\Debug\PİYON OYUNU.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\PİYON OYUNU\PİYON OYUNU\obj\Debug\PİYON OYUNU.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\PİYON OYUNU\PİYON OYUNU\obj\Debug\PİYON OYUNU.exe
+C:\Users\MONSTER\source\repos\PİYON OYUNU\PİYON OYUNU\obj\Debug\PİYON OYUNU.pdb
+C:\Users\MONSTER\source\repos\PİYON OYUNU\PİYON OYUNU\obj\Debug\PİYON_OYUNU.tahta.resources
+C:\Users\aakkr\Desktop\Taxi Driver\Game2\PİYON OYUNU\bin\Debug\PİYON OYUNU.exe.config
+C:\Users\aakkr\Desktop\Taxi Driver\Game2\PİYON OYUNU\bin\Debug\PİYON OYUNU.exe
+C:\Users\aakkr\Desktop\Taxi Driver\Game2\PİYON OYUNU\bin\Debug\PİYON OYUNU.pdb
+C:\Users\aakkr\Desktop\Taxi Driver\Game2\PİYON OYUNU\obj\Debug\PİYON OYUNU.csproj.AssemblyReference.cache
+C:\Users\aakkr\Desktop\Taxi Driver\Game2\PİYON OYUNU\obj\Debug\PİYON_OYUNU.tahta.resources
+C:\Users\aakkr\Desktop\Taxi Driver\Game2\PİYON OYUNU\obj\Debug\PİYON_OYUNU.zar.resources
+C:\Users\aakkr\Desktop\Taxi Driver\Game2\PİYON OYUNU\obj\Debug\PİYON_OYUNU.Properties.Resources.resources
+C:\Users\aakkr\Desktop\Taxi Driver\Game2\PİYON OYUNU\obj\Debug\PİYON OYUNU.csproj.GenerateResource.cache
+C:\Users\aakkr\Desktop\Taxi Driver\Game2\PİYON OYUNU\obj\Debug\PİYON OYUNU.csproj.CoreCompileInputs.cache
+C:\Users\aakkr\Desktop\Taxi Driver\Game2\PİYON OYUNU\obj\Debug\PİYON OYUNU.exe
+C:\Users\aakkr\Desktop\Taxi Driver\Game2\PİYON OYUNU\obj\Debug\PİYON OYUNU.pdb
+C:\Users\MONSTER\Desktop\vize 2\Game2\PİYON OYUNU\bin\Debug\PİYON OYUNU.exe.config
+C:\Users\MONSTER\Desktop\vize 2\Game2\PİYON OYUNU\bin\Debug\PİYON OYUNU.exe
+C:\Users\MONSTER\Desktop\vize 2\Game2\PİYON OYUNU\bin\Debug\PİYON OYUNU.pdb
+C:\Users\MONSTER\Desktop\vize 2\Game2\PİYON OYUNU\obj\Debug\PİYON OYUNU.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\vize 2\Game2\PİYON OYUNU\obj\Debug\PİYON_OYUNU.tahta.resources
+C:\Users\MONSTER\Desktop\vize 2\Game2\PİYON OYUNU\obj\Debug\PİYON_OYUNU.zar.resources
+C:\Users\MONSTER\Desktop\vize 2\Game2\PİYON OYUNU\obj\Debug\PİYON_OYUNU.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\vize 2\Game2\PİYON OYUNU\obj\Debug\PİYON OYUNU.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\vize 2\Game2\PİYON OYUNU\obj\Debug\PİYON OYUNU.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\vize 2\Game2\PİYON OYUNU\obj\Debug\PİYON OYUNU.exe
+C:\Users\MONSTER\Desktop\vize 2\Game2\PİYON OYUNU\obj\Debug\PİYON OYUNU.pdb
+C:\Users\MONSTER\Desktop\vize 230007007 AYŞENUR EGE\Game2\PİYON OYUNU\bin\Debug\PİYON OYUNU.exe.config
+C:\Users\MONSTER\Desktop\vize 230007007 AYŞENUR EGE\Game2\PİYON OYUNU\bin\Debug\PİYON OYUNU.exe
+C:\Users\MONSTER\Desktop\vize 230007007 AYŞENUR EGE\Game2\PİYON OYUNU\bin\Debug\PİYON OYUNU.pdb
+C:\Users\MONSTER\Desktop\vize 230007007 AYŞENUR EGE\Game2\PİYON OYUNU\obj\Debug\PİYON OYUNU.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\vize 230007007 AYŞENUR EGE\Game2\PİYON OYUNU\obj\Debug\PİYON_OYUNU.tahta.resources
+C:\Users\MONSTER\Desktop\vize 230007007 AYŞENUR EGE\Game2\PİYON OYUNU\obj\Debug\PİYON_OYUNU.zar.resources
+C:\Users\MONSTER\Desktop\vize 230007007 AYŞENUR EGE\Game2\PİYON OYUNU\obj\Debug\PİYON_OYUNU.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\vize 230007007 AYŞENUR EGE\Game2\PİYON OYUNU\obj\Debug\PİYON OYUNU.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\vize 230007007 AYŞENUR EGE\Game2\PİYON OYUNU\obj\Debug\PİYON OYUNU.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\vize 230007007 AYŞENUR EGE\Game2\PİYON OYUNU\obj\Debug\PİYON OYUNU.exe
+C:\Users\MONSTER\Desktop\vize 230007007 AYŞENUR EGE\Game2\PİYON OYUNU\obj\Debug\PİYON OYUNU.pdb
